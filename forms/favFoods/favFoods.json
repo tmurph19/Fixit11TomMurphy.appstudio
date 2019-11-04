@@ -16,7 +16,25 @@
         "forms", 
         "favFoods", 
         "Elements", 
-        "Listgroup1.json"
+        "btnNextForm2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "favFoods", 
+        "Elements", 
+        "lsgFood.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "favFoods", 
+        "Elements", 
+        "lblMessage.json"
       ]
     }
   ], 
